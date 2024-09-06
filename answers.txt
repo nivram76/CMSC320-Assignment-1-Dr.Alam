@@ -6,3 +6,7 @@ Answer: To collaborate on coding projects together.
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Biomedical, they could use it to analyze the results of different vaccines to test their efficacy.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the entire history of your repository, rebasing creates a linear history.
