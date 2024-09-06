@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Biomedical, they could use it to analyze the results of different vaccines to test their efficacy.
