@@ -7,6 +7,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Biomedical, they could use it to analyze the results of different vaccines to test their efficacy.
 
-Q3: What is the difference between merging and rebasing?
+Q3: What skills do you hope to improve during this course?
 
-Answer: Merging preserves the entire history of your repository, rebasing creates a linear history.
+Answer: SQL and git version control
